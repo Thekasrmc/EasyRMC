@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Discord](https://img.shields.io/badge/discord-bot-7289DA)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Security](https://img.shields.io/badge/security-advanced-red)
+![Utility](https://img.shields.io/badge/Moderation-advanced-red)
 
 # 🚀 EasyRMC
 
