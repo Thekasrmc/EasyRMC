@@ -43,7 +43,7 @@ https://discord.com/oauth2/authorize?client_id=1488039685468065833&permissions=5
 
 - `/slowmode seconds:<วินาที>`  
 ตั้งเวลาหน่วงการพิมพ์
-
+> หากต้องการปิด slowmode ให้ตั้งเวลา เป็น 0 วินาที!!
 ---
 
 ## 👤 คำสั่งข้อมูล
