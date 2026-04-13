@@ -1,11 +1,14 @@
+# EASYRMC
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Discord](https://img.shields.io/badge/discord-bot-7289DA)
 ![Utility](https://img.shields.io/badge/Utility-Moderation-red)
+<img align="right" src="/assets/EASYRMC.png" width=200 alt="Easyrmc logo">
 
-# 🚀 EasyRMC
-
-บอท Discord สำหรับจัดการเซิร์ฟเวอร์แบบง่ายๆ แต่ครบเครื่อง  
-ใช้งานได้ทันที ไม่ต้องตั้งค่าซับซ้อน
+> [!NOTE]
+> บอท Discord สำหรับจัดการเซิร์ฟเวอร์แบบง่ายๆ แต่ครบเครื่อง  
+> ใช้งานได้ทันที ไม่ต้องตั้งค่าซับซ้อน
+> 
+> **แนะนำ‼️** [VEXRMC Bot Security Bot สำหรับ Discord ป้องกัน Raid / Nuke / Spam / Abuse หากต้องการกดที่นี่เลย !!!](https://github.com/Thekasrmc/VEXRMC)
 
 
 ## ⚡ เริ่มต้นใช้งาน (สำคัญ)
